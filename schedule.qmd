@@ -1,0 +1,67 @@
+---
+title: "Schedule"
+---
+
+The schedule is subject to change – check back often!
+
+## Important Dates:
+
+-   Class Survey: Due Friday, August 30
+
+-   Assignment 1: Due Friday, September 13
+
+-   Assignment 2: Due Friday, September 27
+
+-   Midterm: In-class on Tuesday, October 8
+
+-   Assignment 3: Due Friday, October 18
+
+-   Assignment 4: Due Friday, November 1
+
+-   Project Proposal: Due Friday, November 8
+
+-   Assignment 5: Due Friday, November 22
+
+-   Project Presentations: In-class on Tuesday, December 3 and Friday, December 6
+
+## Schedule
+
+#### Tuesday, August 27
+
+-   Topics: Introduction, syllabus discussion
+
+-   Readings: none
+
+-   Class Events: Class survey goes out
+
+-   Deadlines: none
+
+#### Friday, August 30
+
+-   Topics: Python review
+
+-   Readings:
+
+    -   [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
+    -   ["An Informal Introduction to Python"](https://docs.python.org/3/tutorial/introduction.html)
+    -   ["More Control Flow Tools"](https://docs.python.org/3/tutorial/controlflow.html)
+
+-   Class Events: Assignment 1 goes out
+
+-   Deadlines: Class survey
+
+#### Tuesday, September 3
+
+-   Topics: Python review
+
+-   Readings:
+
+    -   ["Data Structures"](https://docs.python.org/3/tutorial/datastructures.html)
+
+    -   ["Brief Tour of the Standard Library"](https://docs.python.org/3/tutorial/stdlib.html)
+
+    -   ["NumPy Fundamentals"](https://numpy.org/doc/stable/user/basics.html)
+
+-   Class Events: none
+
+-   Deadlines: none
