@@ -24,17 +24,19 @@ The schedule is subject to change – check back often!
 
 -   Project Presentations: In-class on Tuesday, December 3 and Friday, December 6
 
+-   Final Projects: Due Friday, December 13 **at 5:00pm**
+
 ## Schedule
 
 #### Tuesday, August 27
 
 -   Topics: Introduction, syllabus discussion
 
--   Readings: none
+-   Readings: None
 
--   Class Events: Class survey goes out
+-   Class Events: Class survey goes out (due date: Friday, August 30)
 
--   Deadlines: none
+-   Deadlines: None
 
 #### Friday, August 30
 
@@ -62,6 +64,20 @@ The schedule is subject to change – check back often!
 
     -   ["NumPy Fundamentals"](https://numpy.org/doc/stable/user/basics.html)
 
--   Class Events: none
+-   Class Events: None
 
--   Deadlines: none
+-   Deadlines: None
+
+**Friday, September 6**
+
+-   Topics: Linear algebra review
+
+-   Readings:
+
+    -   ["10 Minutes to pandas"](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+
+    -   ["Introduction to Data Structures"](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+
+-   Class Events: This class will be prerecorded; **we will not be meeting in person**
+
+-   Deadlines: None

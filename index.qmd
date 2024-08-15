@@ -4,7 +4,7 @@ title: "Natural Language Processing and Text as Data \\ [CSC 496/696]"
 
 ## Syllabus
 
-Click here for the syllabus. The syllabus was last updated **Tuesday, August 13**.
+Click here for the syllabus. The syllabus was last updated **Thursday, August 15**.
 
 ## Course Information
 
@@ -31,7 +31,5 @@ Click here for the syllabus. The syllabus was last updated **Tuesday, August 13*
 -   **Email**: pwu \[at\] american.edu
 
 -   **Instructor's Office**:
-
--   **Class Location**: DMTI 110
 
 -   **Instructor's Office Hours**:

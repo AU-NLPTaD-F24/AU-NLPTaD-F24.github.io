@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Natural Language Processing and Text as Data  [CSC 496/696]",
     "section": "",
-    "text": "Click here for the syllabus. The syllabus was last updated Tuesday, August 13."
+    "text": "Click here for the syllabus. The syllabus was last updated Thursday, August 15."
   },
   {
     "objectID": "index.html#course-information",
@@ -18,7 +18,7 @@
     "href": "index.html#instructor-information",
     "title": "Natural Language Processing and Text as Data  [CSC 496/696]",
     "section": "Instructor Information",
-    "text": "Instructor Information\n\nInstructor: Patrick Wu\nEmail: pwu [at] american.edu\nInstructor’s Office:\nClass Location: DMTI 110\nInstructor’s Office Hours:"
+    "text": "Instructor Information\n\nInstructor: Patrick Wu\nEmail: pwu [at] american.edu\nInstructor’s Office:\nInstructor’s Office Hours:"
   },
   {
     "objectID": "schedule.html",
@@ -32,13 +32,13 @@
     "href": "schedule.html#important-dates",
     "title": "Schedule",
     "section": "Important Dates:",
-    "text": "Important Dates:\n\nClass Survey: Due Friday, August 30\nAssignment 1: Due Friday, September 13\nAssignment 2: Due Friday, September 27\nMidterm: In-class on Tuesday, October 8\nAssignment 3: Due Friday, October 18\nAssignment 4: Due Friday, November 1\nProject Proposal: Due Friday, November 8\nAssignment 5: Due Friday, November 22\nProject Presentations: In-class on Tuesday, December 3 and Friday, December 6"
+    "text": "Important Dates:\n\nClass Survey: Due Friday, August 30\nAssignment 1: Due Friday, September 13\nAssignment 2: Due Friday, September 27\nMidterm: In-class on Tuesday, October 8\nAssignment 3: Due Friday, October 18\nAssignment 4: Due Friday, November 1\nProject Proposal: Due Friday, November 8\nAssignment 5: Due Friday, November 22\nProject Presentations: In-class on Tuesday, December 3 and Friday, December 6\nFinal Projects: Due Friday, December 13 at 5:00pm"
   },
   {
     "objectID": "schedule.html#schedule",
     "href": "schedule.html#schedule",
     "title": "Schedule",
     "section": "Schedule",
-    "text": "Schedule\n\nTuesday, August 27\n\nTopics: Introduction, syllabus discussion\nReadings: none\nClass Events: Class survey goes out\nDeadlines: none\n\n\n\nFriday, August 30\n\nTopics: Python review\nReadings:\n\nOverview of Colaboratory Features\n“An Informal Introduction to Python”\n“More Control Flow Tools”\n\nClass Events: Assignment 1 goes out\nDeadlines: Class survey\n\n\n\nTuesday, September 3\n\nTopics: Python review\nReadings:\n\n“Data Structures”\n“Brief Tour of the Standard Library”\n“NumPy Fundamentals”\n\nClass Events: none\nDeadlines: none"
+    "text": "Schedule\n\nTuesday, August 27\n\nTopics: Introduction, syllabus discussion\nReadings: None\nClass Events: Class survey goes out (due date: Friday, August 30)\nDeadlines: None\n\n\n\nFriday, August 30\n\nTopics: Python review\nReadings:\n\nOverview of Colaboratory Features\n“An Informal Introduction to Python”\n“More Control Flow Tools”\n\nClass Events: Assignment 1 goes out\nDeadlines: Class survey\n\n\n\nTuesday, September 3\n\nTopics: Python review\nReadings:\n\n“Data Structures”\n“Brief Tour of the Standard Library”\n“NumPy Fundamentals”\n\nClass Events: None\nDeadlines: None\n\nFriday, September 6\n\nTopics: Linear algebra review\nReadings:\n\n“10 Minutes to pandas”\n“Introduction to Data Structures”\n\nClass Events: This class will be prerecorded; we will not be meeting in person\nDeadlines: None"
   }
 ]
