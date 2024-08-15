@@ -4,6 +4,7 @@ project:
 
 website:
   title: "CSC-496/696"
+  favicon: images/AU_mark.png
   navbar:
     logo: images/AU_mark.png
     left:
