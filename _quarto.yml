@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "CSC 496/696"
+  title: "CSC-496/696"
   navbar:
     logo: images/AU_mark.png
     left:
@@ -11,12 +11,14 @@ website:
         text: Home
       - href: schedule.qmd
         text: Schedule
+      - href: officehours.qmd
+        text: Office Hours
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
+    toc: true
 
 editor: visual
 

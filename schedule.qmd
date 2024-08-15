@@ -4,7 +4,7 @@ title: "Schedule"
 
 The schedule is subject to change – check back often!
 
-## Important Dates:
+## Important Dates
 
 -   Class Survey: Due Friday, August 30
 
@@ -28,7 +28,7 @@ The schedule is subject to change – check back often!
 
 ## Schedule
 
-#### Tuesday, August 27
+### Tuesday, August 27
 
 -   Topics: Introduction, syllabus discussion
 
@@ -38,7 +38,7 @@ The schedule is subject to change – check back often!
 
 -   Deadlines: None
 
-#### Friday, August 30
+### Friday, August 30
 
 -   Topics: Python review
 
@@ -52,7 +52,7 @@ The schedule is subject to change – check back often!
 
 -   Deadlines: Class survey
 
-#### Tuesday, September 3
+### Tuesday, September 3
 
 -   Topics: Python review
 
@@ -68,7 +68,7 @@ The schedule is subject to change – check back often!
 
 -   Deadlines: None
 
-**Friday, September 6**
+### **Friday, September 6**
 
 -   Topics: Linear algebra review
 

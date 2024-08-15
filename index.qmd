@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing and Text as Data \\ [CSC 496/696]"
+title: "Natural Language Processing and Text as Data \\ [CSC-496/696]"
 ---
 
 ## Syllabus
@@ -32,4 +32,4 @@ Click here for the syllabus. The syllabus was last updated **Thursday, August 15
 
 -   **Instructor's Office**:
 
--   **Instructor's Office Hours**:
+-   **Instructor's Office Hours**: Thursday, 3:00pm-5:00pm or by [appointment](https://calendly.com/pwu-american/office-hours)
