@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Take the course survey here."
+  },
+  {
     "objectID": "officehours.html",
     "href": "officehours.html",
     "title": "Office Hours",
@@ -11,7 +18,14 @@
     "href": "index.html",
     "title": "Natural Language Processing and Text as Data  [CSC-496/696]",
     "section": "",
-    "text": "Click here for the syllabus. The syllabus was last updated Thursday, August 15."
+    "text": "Nothing for now!"
+  },
+  {
+    "objectID": "index.html#syllabus",
+    "href": "index.html#syllabus",
+    "title": "Natural Language Processing and Text as Data  [CSC-496/696]",
+    "section": "Syllabus",
+    "text": "Syllabus\nClick here for the syllabus. The syllabus was last updated Monday, August 19."
   },
   {
     "objectID": "index.html#course-information",
