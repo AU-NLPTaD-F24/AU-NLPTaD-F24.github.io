@@ -24,7 +24,7 @@ The schedule is subject to change – check back often!
 
 -   Project Presentations: In-class on Tuesday, December 3 and Friday, December 6
 
--   Final Projects: Due Friday, December 13 **at 5:00pm**
+-   Final Project: Due Friday, December 13 **at 5:00pm**
 
 ## Schedule
 
@@ -44,11 +44,11 @@ The schedule is subject to change – check back often!
 
 -   Readings:
 
-    -   [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
-    -   ["An Informal Introduction to Python"](https://docs.python.org/3/tutorial/introduction.html)
-    -   ["More Control Flow Tools"](https://docs.python.org/3/tutorial/controlflow.html)
+    -   [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb){target="_blank"}
+    -   ["An Informal Introduction to Python"](https://docs.python.org/3/tutorial/introduction.html){target="_blank"}
+    -   ["More Control Flow Tools"](https://docs.python.org/3/tutorial/controlflow.html){target="_blank"}
 
--   Class Events: Assignment 1 goes out
+-   Class Events: Assignment 1 goes out (due date: Friday, September 13)
 
 -   Deadlines: Class survey
 
@@ -58,11 +58,9 @@ The schedule is subject to change – check back often!
 
 -   Readings:
 
-    -   ["Data Structures"](https://docs.python.org/3/tutorial/datastructures.html)
-
-    -   ["Brief Tour of the Standard Library"](https://docs.python.org/3/tutorial/stdlib.html)
-
-    -   ["NumPy Fundamentals"](https://numpy.org/doc/stable/user/basics.html)
+    -   ["Data Structures"](https://docs.python.org/3/tutorial/datastructures.html){target="_blank"}
+    -   ["Brief Tour of the Standard Library"](https://docs.python.org/3/tutorial/stdlib.html){target="_blank"}
+    -   ["NumPy Fundamentals"](https://numpy.org/doc/stable/user/basics.html){target="_blank"}
 
 -   Class Events: None
 
@@ -74,9 +72,8 @@ The schedule is subject to change – check back often!
 
 -   Readings:
 
-    -   ["10 Minutes to pandas"](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
-
-    -   ["Introduction to Data Structures"](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+    -   ["10 Minutes to pandas"](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html){target="_blank"}
+    -   ["Introduction to Data Structures"](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html){target="_blank"}
 
 -   Class Events: This class will be prerecorded; **we will not be meeting in person**
 

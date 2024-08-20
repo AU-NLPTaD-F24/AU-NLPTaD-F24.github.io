@@ -11,35 +11,35 @@
     "href": "officehours.html",
     "title": "Office Hours",
     "section": "",
-    "text": "Office hours for this course are scheduled from 3:00pm to 5:00pm on Thursdays. If I am not available on a given Thursday or this time does not work for you, please schedule office hours using the scheduler here."
+    "text": "Office hours for this course are scheduled from 3:00 PM to 5:00 PM on Thursdays. If I am not available on a given Thursday or this time does not work for you, please schedule office hours using the scheduler here."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Natural Language Processing and Text as Data  [CSC-496/696]",
+    "title": "Natural Language Processing and Text as Data",
     "section": "",
     "text": "Nothing for now!"
   },
   {
     "objectID": "index.html#syllabus",
     "href": "index.html#syllabus",
-    "title": "Natural Language Processing and Text as Data  [CSC-496/696]",
+    "title": "Natural Language Processing and Text as Data",
     "section": "Syllabus",
-    "text": "Syllabus\nClick here for the syllabus. The syllabus was last updated Monday, August 19."
+    "text": "Syllabus\nClick here for the syllabus. The syllabus was last updated Tuesday, August 20."
   },
   {
     "objectID": "index.html#course-information",
     "href": "index.html#course-information",
-    "title": "Natural Language Processing and Text as Data  [CSC-496/696]",
+    "title": "Natural Language Processing and Text as Data",
     "section": "Course Information",
-    "text": "Course Information\n\nClass Time: Tuesday/Friday, 4:05pm - 5:20pm\nLocation: DMTI 110\nDescription: In recent years, the quantity and quality of text data have dramatically increased, driving a surge in demand for tools to effectively analyze this data and unlocking new approaches to language modeling. This course introduces natural language processing (NLP) and text as data, focusing on practical applications and problem-solving. Using Python, the class covers fundamental NLP techniques, including text preprocessing, text classification, topic modeling, text embeddings, benchmarking and evaluation, transfer learning, and large language models (including generative LLMs). Applications involve working with data such as product reviews, tweets and other social media posts, news articles, and open-ended surveys to answer questions in domains like the social sciences and business.\nTextbook: You will not need to purchase any textbooks. The books can be accessed online, through the University Library, or through Canvas. Readings may also come from other online sources. One of the tricky aspects of this class is that the field continues to evolve as the class goes on. Textbooks written even a few years ago may be out of date! Please have the readings completed before class. It is okay if you do not understand everything in the assigned reading.\n\n[SLP] Speech and Language Processing. Dan Jurafsky and James H. Martin. 3rd edition draft. 2024. Book can be accessed at https://stanford.edu/~jurafsky/slp3/.\n[NLPT] Natural Language Processing with Transformers. Lewis Tunstall, Leandro von Werra, and Thomas Wolf. 2022. Book can be accessed through the University Library.\n[TaD] Text as Data: A New Framework for Machine Learning and the Social Sciences. Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart. 2022. Readings will be provided on Canvas.\n[ISLP] An Introduction to Statistical Learning with Applications in Python. Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2023. Book can be accessed at https://www.statlearning.com/.\n[DL] Deep Learning. Ian Goodfellow, Yoshua Bengio, and Aaron Courville. 2016. Book can be accessed at https://www.deeplearningbook.org/.\n\nFor all details about the class, check out the syllabus. I will let you know immediately if there are any updates to the schedule, policies, assignments, etc."
+    "text": "Course Information\n\nClass Time: Tuesday/Friday, 4:05 PM - 5:20 PM\nLocation: DMTI 110\nDescription: In recent years, the quantity and quality of text data have dramatically increased, driving a surge in demand for tools to effectively analyze this data and unlocking new approaches to language modeling. This course introduces natural language processing (NLP) and text as data, focusing on practical applications and problem-solving. Using Python, the class covers fundamental NLP techniques, including text preprocessing, text classification, topic modeling, text embeddings, benchmarking and evaluation, transfer learning, and large language models (including generative LLMs). Applications involve working with data such as product reviews, tweets and other social media posts, news articles, and open-ended surveys to answer questions in domains like the social sciences and business.\nTextbook: You will not need to purchase any textbooks. The books can be accessed online, through the University Library, or through Canvas. Readings may also come from other online sources. One of the tricky aspects of this class is that the field continues to evolve as the class goes on. Textbooks written even a few years ago may be out of date! Please have the readings completed before class. It is okay if you do not understand everything in the assigned reading.\n\n[SLP] Speech and Language Processing. Dan Jurafsky and James H. Martin. 3rd edition draft. 2024. Book can be accessed at https://stanford.edu/~jurafsky/slp3/.\n[NLPT] Natural Language Processing with Transformers. Lewis Tunstall, Leandro von Werra, and Thomas Wolf. 2022. Book can be accessed through the University Library.\n[TaD] Text as Data: A New Framework for Machine Learning and the Social Sciences. Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart. 2022. Readings will be provided on Canvas.\n[ISLP] An Introduction to Statistical Learning with Applications in Python. Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2023. Book can be accessed at https://www.statlearning.com/.\n[DL] Deep Learning. Ian Goodfellow, Yoshua Bengio, and Aaron Courville. 2016. Book can be accessed at https://www.deeplearningbook.org/.\n\nFor all details about the class, check out the syllabus. I will let you know immediately if there are any updates to the schedule, policies, assignments, etc."
   },
   {
     "objectID": "index.html#instructor-information",
     "href": "index.html#instructor-information",
-    "title": "Natural Language Processing and Text as Data  [CSC-496/696]",
+    "title": "Natural Language Processing and Text as Data",
     "section": "Instructor Information",
-    "text": "Instructor Information\n\nInstructor: Patrick Wu\nEmail: pwu [at] american.edu\nInstructor’s Office:\nInstructor’s Office Hours: Thursday, 3:00pm-5:00pm or by appointment"
+    "text": "Instructor Information\n\nInstructor: Patrick Wu\nEmail: pwu [at] american.edu\nInstructor’s Office:\nInstructor’s Office Hours: Thursday, 3:00 PM - 5:00 PM or by appointment"
   },
   {
     "objectID": "schedule.html",
@@ -53,13 +53,13 @@
     "href": "schedule.html#important-dates",
     "title": "Schedule",
     "section": "Important Dates",
-    "text": "Important Dates\n\nClass Survey: Due Friday, August 30\nAssignment 1: Due Friday, September 13\nAssignment 2: Due Friday, September 27\nMidterm: In-class on Tuesday, October 8\nAssignment 3: Due Friday, October 18\nAssignment 4: Due Friday, November 1\nProject Proposal: Due Friday, November 8\nAssignment 5: Due Friday, November 22\nProject Presentations: In-class on Tuesday, December 3 and Friday, December 6\nFinal Projects: Due Friday, December 13 at 5:00pm"
+    "text": "Important Dates\n\nClass Survey: Due Friday, August 30\nAssignment 1: Due Friday, September 13\nAssignment 2: Due Friday, September 27\nMidterm: In-class on Tuesday, October 8\nAssignment 3: Due Friday, October 18\nAssignment 4: Due Friday, November 1\nProject Proposal: Due Friday, November 8\nAssignment 5: Due Friday, November 22\nProject Presentations: In-class on Tuesday, December 3 and Friday, December 6\nFinal Project: Due Friday, December 13 at 5:00pm"
   },
   {
     "objectID": "schedule.html#schedule",
     "href": "schedule.html#schedule",
     "title": "Schedule",
     "section": "Schedule",
-    "text": "Schedule\n\nTuesday, August 27\n\nTopics: Introduction, syllabus discussion\nReadings: None\nClass Events: Class survey goes out (due date: Friday, August 30)\nDeadlines: None\n\n\n\nFriday, August 30\n\nTopics: Python review\nReadings:\n\nOverview of Colaboratory Features\n“An Informal Introduction to Python”\n“More Control Flow Tools”\n\nClass Events: Assignment 1 goes out\nDeadlines: Class survey\n\n\n\nTuesday, September 3\n\nTopics: Python review\nReadings:\n\n“Data Structures”\n“Brief Tour of the Standard Library”\n“NumPy Fundamentals”\n\nClass Events: None\nDeadlines: None\n\n\n\nFriday, September 6\n\nTopics: Linear algebra review\nReadings:\n\n“10 Minutes to pandas”\n“Introduction to Data Structures”\n\nClass Events: This class will be prerecorded; we will not be meeting in person\nDeadlines: None"
+    "text": "Schedule\n\nTuesday, August 27\n\nTopics: Introduction, syllabus discussion\nReadings: None\nClass Events: Class survey goes out (due date: Friday, August 30)\nDeadlines: None\n\n\n\nFriday, August 30\n\nTopics: Python review\nReadings:\n\nOverview of Colaboratory Features\n“An Informal Introduction to Python”\n“More Control Flow Tools”\n\nClass Events: Assignment 1 goes out (due date: Friday, September 13)\nDeadlines: Class survey\n\n\n\nTuesday, September 3\n\nTopics: Python review\nReadings:\n\n“Data Structures”\n“Brief Tour of the Standard Library”\n“NumPy Fundamentals”\n\nClass Events: None\nDeadlines: None\n\n\n\nFriday, September 6\n\nTopics: Linear algebra review\nReadings:\n\n“10 Minutes to pandas”\n“Introduction to Data Structures”\n\nClass Events: This class will be prerecorded; we will not be meeting in person\nDeadlines: None"
   }
 ]

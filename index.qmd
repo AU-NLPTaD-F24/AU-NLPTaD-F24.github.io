@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing and Text as Data \\ [CSC-496/696]"
+title: "Natural Language Processing and Text as Data"
 ---
 
 ## Announcements
@@ -7,11 +7,11 @@ Nothing for now!
 
 ## Syllabus
 
-[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Monday, August 19**.
+[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Tuesday, August 20**.
 
 ## Course Information
 
--   **Class Time**: Tuesday/Friday, 4:05pm - 5:20pm
+-   **Class Time**: Tuesday/Friday, 4:05 PM - 5:20 PM
 
 -   **Location**: DMTI 110
 
@@ -35,4 +35,4 @@ Nothing for now!
 
 -   **Instructor's Office**:
 
--   **Instructor's Office Hours**: Thursday, 3:00pm-5:00pm or by [appointment](https://calendly.com/pwu-american/office-hours)
+-   **Instructor's Office Hours**: Thursday, 3:00 PM - 5:00 PM or by [appointment](https://calendly.com/pwu-american/office-hours){target="_blank"}
