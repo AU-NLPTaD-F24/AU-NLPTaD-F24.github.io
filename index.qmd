@@ -3,17 +3,17 @@ title: "Natural Language Processing and Text as Data"
 ---
 
 ## Announcements
-Nothing for now!
+* The location of our class is now **DMTI 114**.
 
 ## Syllabus
 
-[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Tuesday, August 20**.
+[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Wednesday, August 21**.
 
 ## Course Information
 
 -   **Class Time**: Tuesday/Friday, 4:05 PM - 5:20 PM
 
--   **Location**: DMTI 110
+-   **Location**: DMTI 114
 
 -   **Description**: In recent years, the quantity and quality of text data have dramatically increased, driving a surge in demand for tools to effectively analyze this data and unlocking new approaches to language modeling. This course introduces natural language processing (NLP) and text as data, focusing on practical applications and problem-solving. Using Python, the class covers fundamental NLP techniques, including text preprocessing, text classification, topic modeling, text embeddings, benchmarking and evaluation, transfer learning, and large language models (including generative LLMs). Applications involve working with data such as product reviews, tweets and other social media posts, news articles, and open-ended surveys to answer questions in domains like the social sciences and business.
 
