@@ -7,7 +7,7 @@ title: "Natural Language Processing and Text as Data"
 
 ## Syllabus
 
-[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Thursday, August 22**.
+[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Monday, August 26**.
 
 ## Course Information
 
