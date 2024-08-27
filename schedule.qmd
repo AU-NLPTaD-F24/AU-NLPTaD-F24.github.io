@@ -38,6 +38,8 @@ The schedule is subject to change – check back often!
 
 -   Deadlines: None
 
+-   Class slides: [Lecture 1](lectures/lecture1_20240827/lecture1_week1_F24.html){target="_blank"}
+
 ### Friday, August 30
 
 -   Topics: Python review
