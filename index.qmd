@@ -3,11 +3,12 @@ title: "Natural Language Processing and Text as Data"
 ---
 
 ## Announcements
+* [August 27] The course survey can be found [here](https://american.co1.qualtrics.com/jfe/form/SV_9TVxBqHAH5hjKxo){target="_blank"}
 * The location of our class is now **DMTI 114**.
 
 ## Syllabus
 
-[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Monday, August 26**.
+[Click here for the syllabus](materials/CSC-496-696_NLP_TaD_Syllabus.pdf){target="_blank"}. The syllabus was last updated **Tuesday, August 27**.
 
 ## Course Information
 
