@@ -3,6 +3,8 @@ title: "Natural Language Processing and Text as Data"
 ---
 
 ## Announcements
+* [August 30] We will not be meeting in person on Friday, September 6. The lecture will be pre-recorded. I will announce when the video is posted.
+* [August 30] I will not be holding office hours next week (Thursday, September 5). You can use my [Calendly link](https://calendly.com/pwu-american/office-hours) to schedule time to meet. 
 * [August 27] The course survey can be found [here](https://american.co1.qualtrics.com/jfe/form/SV_9TVxBqHAH5hjKxo){target="_blank"}
 * The location of our class is now **DMTI 114**.
 

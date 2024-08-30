@@ -18,7 +18,7 @@
     "href": "schedule.html#schedule",
     "title": "Schedule",
     "section": "Schedule",
-    "text": "Schedule\n\nTuesday, August 27\n\nTopics: Introduction, syllabus discussion\nReadings: None\nClass Events: Class survey goes out (due date: Friday, August 30)\nDeadlines: None\nClass slides: Lecture 1\nLab: Lecture 1 Lab\n\n\n\nFriday, August 30\n\nTopics: Python review\nReadings:\n\nOverview of Colaboratory Features\n“An Informal Introduction to Python”\n“More Control Flow Tools”\n\nClass Events: Assignment 1 goes out (due date: Friday, September 13)\nDeadlines: Class survey\n\n\n\nTuesday, September 3\n\nTopics: Python review\nReadings:\n\n“Data Structures”\n“Brief Tour of the Standard Library”\n“NumPy Fundamentals”\n\nClass Events: None\nDeadlines: None\n\n\n\nFriday, September 6\n\nTopics: Linear algebra review\nReadings:\n\n“10 Minutes to pandas”\n“Introduction to Data Structures”\n\nClass Events: This class will be prerecorded; we will not be meeting in person\nDeadlines: None"
+    "text": "Schedule\n\nTuesday, August 27\n\nTopics: Introduction, syllabus discussion\nReadings: None\nClass Events: Class survey goes out (due date: Friday, August 30)\nDeadlines: None\nClass slides: Lecture 1\nLab: Lecture 1 Lab\n\n\n\nFriday, August 30\n\nTopics: Python review, Part I\nReadings:\n\nOverview of Colaboratory Features\n“An Informal Introduction to Python”\n“More Control Flow Tools”\n\nClass Events: Assignment 1 goes out (due date: Friday, September 13)\nDeadlines: Class survey\nClass Slides: Lecture 2\nLab: Lecture 2 Lab\n\n\n\nTuesday, September 3\n\nTopics: Python review, Part II\nReadings:\n\n“Data Structures”\n“Brief Tour of the Standard Library”\n“NumPy Fundamentals”\n\nClass Events: None\nDeadlines: None\n\n\n\nFriday, September 6\n\nTopics: Linear algebra review\nReadings:\n\n“10 Minutes to pandas”\n“Introduction to Data Structures”\n\nClass Events: This class will be prerecorded; we will not be meeting in person\nDeadlines: None"
   },
   {
     "objectID": "officehours.html",
@@ -32,28 +32,35 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "Take the course survey here. It is due on Friday, August 30 (or the class after you enroll, if you are enrolling late)."
+    "text": "Problem 1\nProblem 2\nProblem 3\n\nFor each problem, click “File” and “Save a copy to Drive.” Save this file to your Google Drive, and then complete the assignment using your copy of the assignment. The file name will have “Copy” in it. Delete that, and put your initials at the end of the file separated by an underscore. For example, if I was turning in Assignment 1, I would rename the file to “A1_Problem1_PW.ipynb”.\nAfter you complete the assignment, click “File,” “Download,” and select “Download .ipynb.” Do this for all three problems. Submit each as a separate file on Canvas.\nBe sure to put your name in the first cell of each notebook and the people you worked with (which may be different for each problem)."
+  },
+  {
+    "objectID": "assignments.html#assignment-1-due-date-friday-september-13-at-1159pm-et",
+    "href": "assignments.html#assignment-1-due-date-friday-september-13-at-1159pm-et",
+    "title": "Assignments",
+    "section": "",
+    "text": "Problem 1\nProblem 2\nProblem 3\n\nFor each problem, click “File” and “Save a copy to Drive.” Save this file to your Google Drive, and then complete the assignment using your copy of the assignment. The file name will have “Copy” in it. Delete that, and put your initials at the end of the file separated by an underscore. For example, if I was turning in Assignment 1, I would rename the file to “A1_Problem1_PW.ipynb”.\nAfter you complete the assignment, click “File,” “Download,” and select “Download .ipynb.” Do this for all three problems. Submit each as a separate file on Canvas.\nBe sure to put your name in the first cell of each notebook and the people you worked with (which may be different for each problem)."
   },
   {
     "objectID": "assignments.html#course-survey",
     "href": "assignments.html#course-survey",
     "title": "Assignments",
-    "section": "",
-    "text": "Take the course survey here. It is due on Friday, August 30 (or the class after you enroll, if you are enrolling late)."
+    "section": "Course Survey",
+    "text": "Course Survey\nTake the course survey here. It is due on Friday, August 30 (or the class after you enroll, if you are enrolling late)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Natural Language Processing and Text as Data",
     "section": "",
-    "text": "[August 27] The course survey can be found here\nThe location of our class is now DMTI 114."
+    "text": "[August 30] We will not be meeting in person on Friday, September 6. The lecture will be pre-recorded. I will announce when the video is posted.\n[August 30] I will not be holding office hours next week (Thursday, September 5). You can use my Calendly link to schedule time to meet.\n[August 27] The course survey can be found here\nThe location of our class is now DMTI 114."
   },
   {
     "objectID": "index.html#announcements",
     "href": "index.html#announcements",
     "title": "Natural Language Processing and Text as Data",
     "section": "",
-    "text": "[August 27] The course survey can be found here\nThe location of our class is now DMTI 114."
+    "text": "[August 30] We will not be meeting in person on Friday, September 6. The lecture will be pre-recorded. I will announce when the video is posted.\n[August 30] I will not be holding office hours next week (Thursday, September 5). You can use my Calendly link to schedule time to meet.\n[August 27] The course survey can be found here\nThe location of our class is now DMTI 114."
   },
   {
     "objectID": "index.html#syllabus",

@@ -2,6 +2,17 @@
 title: "Assignments"
 ---
 
+## Assignment 1 [Due Date: Friday, September 13 at 11:59pm ET]
+* [Problem 1](https://colab.research.google.com/drive/1dAadrLAjwGnm_QOTJGYfnhzmUW41Qrh3?usp=sharing){target="_blank"}
+* [Problem 2](https://colab.research.google.com/drive/1jmCaAjsk6wCjXLx8XlnayJVNaXRRAvvn?usp=sharing){target="_blank"}
+* [Problem 3](https://colab.research.google.com/drive/1h2C8kNWOKqYYf3wWj0-ZBT5y6oGxFTCr?usp=sharing){target="_blank"}
+
+For each problem, click "File" and "Save a copy to Drive." Save this file to your Google Drive, and then complete the assignment using your copy of the assignment. The file name will have "Copy" in it. Delete that, and put your initials at the end of the file separated by an underscore. For example, if I was turning in Assignment 1, I would rename the file to "A1_Problem1_PW.ipynb". 
+
+After you complete the assignment, click "File," "Download," and select "Download .ipynb." Do this for all three problems. Submit each as a separate file on Canvas.
+
+Be sure to put your name in the first cell of each notebook and the people you worked with (which may be different for each problem).
+
 ## Course Survey
 
 Take the course survey [here](https://american.co1.qualtrics.com/jfe/form/SV_9TVxBqHAH5hjKxo){target="_blank"}. It is due on **Friday, August 30** (or the class after you enroll, if you are enrolling late).
