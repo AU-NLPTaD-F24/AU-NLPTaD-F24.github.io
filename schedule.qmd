@@ -50,7 +50,7 @@ The schedule is subject to change – check back often!
 -   Class Events: None
 -   Deadlines: None
 -   Class Slides: [Lecture 3](lectures/lecture3_20240903/lecture3_week2_F24.pdf){target="_blank"}
--   Lab: Lecture 3 Lab
+-   Lab: [Lecture 3 Lab](https://colab.research.google.com/drive/13zOmZ4Ls8o2i4-GcUw1z0u98MIQBZZSd?usp=sharing){target="_blank"}
 
 ### Friday, September 6
 
