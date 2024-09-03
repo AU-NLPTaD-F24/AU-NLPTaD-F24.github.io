@@ -49,6 +49,8 @@ The schedule is subject to change – check back often!
     -   ["NumPy Fundamentals"](https://numpy.org/doc/stable/user/basics.html){target="_blank"}
 -   Class Events: None
 -   Deadlines: None
+-   Class Slides: [Lecture 3](lectures/lecture3_20240903/lecture3_week2_F24.pdf){target="_blank"}
+-   Lab: Lecture 3 Lab
 
 ### Friday, September 6
 
