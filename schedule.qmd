@@ -58,8 +58,10 @@ The schedule is subject to change – check back often!
 -   Readings:
     -   ["10 Minutes to pandas"](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html){target="_blank"}
     -   ["Introduction to Data Structures"](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html){target="_blank"}
+    -   ["Essence of Linear Algebra" - YouTube video series about linear algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab){target="_blank"}
 -   Class Events: This class will be prerecorded; **we will not be meeting in person**
 -   Deadlines: None
+-   Class Slides: [Lecture 4](lectures/lecture4_20240906/lecture4_week2_F24.html){target="_blank"}
 
 ### Tuesday, September 10
 
