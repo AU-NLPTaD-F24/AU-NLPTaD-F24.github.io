@@ -60,3 +60,21 @@ The schedule is subject to change – check back often!
     -   ["Introduction to Data Structures"](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html){target="_blank"}
 -   Class Events: This class will be prerecorded; **we will not be meeting in person**
 -   Deadlines: None
+
+### Tuesday, September 10
+
+-   Topics: Text preprocessing: regular expressions, bag of words, n-grams, evaluation metrics
+-   Readings:
+    -   TaD Ch. 2 (on Canvas)
+    -   TaD Ch. 5 (on Canvas)
+    -   [SLP Ch. 2](https://stanford.edu/~jurafsky/slp3/2.pdf){target="_blank"}
+-   Class events: None
+-   Deadlines: None
+
+### Friday, September 13
+-   Topics: N-gram models: logistic regression, naive Bayes
+-   Readings:
+    -   [SLP Ch. 3](https://stanford.edu/~jurafsky/slp3/3.pdf){target="_blank"}
+    -   [SLP Ch. 4](https://stanford.edu/~jurafsky/slp3/4.pdf){target="_blank"}
+-   Class events: Assignment 2 goes out (due date: Friday, September 27)
+-   Deadlines: Assignment 1 due
