@@ -72,6 +72,7 @@ The schedule is subject to change – check back often!
     -   [SLP Ch. 2](https://stanford.edu/~jurafsky/slp3/2.pdf){target="_blank"}
 -   Class events: None
 -   Deadlines: None
+-   Class Slides: [Lecture 5](lectures/lecture5_20240910/lecture5_week3_F24.html){target="_blank"}
 
 ### Friday, September 13
 -   Topics: N-gram models: logistic regression, naive Bayes
