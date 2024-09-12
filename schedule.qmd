@@ -8,11 +8,11 @@ The schedule is subject to change – check back often!
 
 -   Class Survey: Due Friday, August 30
 -   Assignment 1: Due Friday, September 13
--   Assignment 2: Due Friday, September 27
+-   Assignment 2: Due Tuesday, October 1
 -   Midterm: In-class on Tuesday, October 8
--   Assignment 3: Due Friday, October 18
--   Assignment 4: Due Friday, November 1
+-   Assignment 3: Due Tuesday, October 29
 -   Project Proposal: Due Friday, November 8
+-   Assignment 4: Due Tuesday, November 12
 -   Assignment 5: Due Friday, November 22
 -   Project Presentations: In-class on Tuesday, December 3 and Friday, December 6
 -   Final Project: Due Friday, December 13 **at 5:00pm**
@@ -75,9 +75,26 @@ The schedule is subject to change – check back often!
 -   Class Slides: [Lecture 5](lectures/lecture5_20240910/lecture5_week3_F24.html){target="_blank"}
 
 ### Friday, September 13
--   Topics: N-gram models: logistic regression, naive Bayes
+-   Topics: Text classification
+-   Readings:
+    -   ISLP Ch. 1
+    -   ISLP Ch. 4
+-   Class events: None
+-   Deadlines: Assignment 1 due
+
+### Tuesday, September 17
+-   Topics: Language models: naive Bayes, logistic regression, neural networks
 -   Readings:
     -   [SLP Ch. 3](https://stanford.edu/~jurafsky/slp3/3.pdf){target="_blank"}
     -   [SLP Ch. 4](https://stanford.edu/~jurafsky/slp3/4.pdf){target="_blank"}
--   Class events: Assignment 2 goes out (due date: Friday, September 27)
--   Deadlines: Assignment 1 due
+-   Class events: Assignment 2 goes out (due date: Tuesday, October 1)
+-   Deadlines: None
+
+### Friday, September 20
+-   Topics: Neural networks
+-   Readings:
+    -   ISLP Ch. 10
+    -   [SLP Ch. 7](https://stanford.edu/~jurafsky/slp3/7.pdf){target="_blank"}
+    -   [DL Ch. 6](https://www.deeplearningbook.org/contents/mlp.html){target="_blank"}
+-   Class events: none
+-   Deadlines: none
