@@ -81,6 +81,8 @@ The schedule is subject to change – check back often!
     -   ISLP Ch. 4
 -   Class events: None
 -   Deadlines: None
+-   Class Slides: [Lecture 6](lectures/lecture6_20240913/lecture6_week3_F24.html){target="_blank"}
+-   Lab: [Lecture 6 Lab](https://colab.research.google.com/drive/1ot8BPuqWrdYjVayVKxrF_LyjY5-x-9Zt?usp=sharing){target="_blank"}
 
 ### Tuesday, September 17
 -   Topics: Language models: naive Bayes, logistic regression, neural networks
