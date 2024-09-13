@@ -35,7 +35,7 @@ The schedule is subject to change – check back often!
     -   [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb){target="_blank"}
     -   ["An Informal Introduction to Python"](https://docs.python.org/3/tutorial/introduction.html){target="_blank"}
     -   ["More Control Flow Tools"](https://docs.python.org/3/tutorial/controlflow.html){target="_blank"}
--   Class Events: Assignment 1 goes out (due date: Friday, September 13)
+-   Class Events: Assignment 1 goes out (due date: Tuesday, September 17)
 -   Deadlines: Class survey
 -   Class Slides: [Lecture 2](lectures/lecture2_20240830/lecture2_week1_F24.pdf){target="_blank"}
 -   Lab: [Lecture 2 Lab](https://colab.research.google.com/drive/12x0LVRfYS9tGZPtedoU8-EcZmPIZqGhl?usp=sharing){target="_blank"}
@@ -80,7 +80,7 @@ The schedule is subject to change – check back often!
     -   ISLP Ch. 1
     -   ISLP Ch. 4
 -   Class events: None
--   Deadlines: Assignment 1 due
+-   Deadlines: None
 
 ### Tuesday, September 17
 -   Topics: Language models: naive Bayes, logistic regression, neural networks
@@ -88,7 +88,7 @@ The schedule is subject to change – check back often!
     -   [SLP Ch. 3](https://stanford.edu/~jurafsky/slp3/3.pdf){target="_blank"}
     -   [SLP Ch. 4](https://stanford.edu/~jurafsky/slp3/4.pdf){target="_blank"}
 -   Class events: Assignment 2 goes out (due date: Tuesday, October 1)
--   Deadlines: None
+-   Deadlines: Assignment 1 due
 
 ### Friday, September 20
 -   Topics: Neural networks
