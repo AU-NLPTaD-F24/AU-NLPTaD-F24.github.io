@@ -88,7 +88,7 @@ The schedule is subject to change – check back often!
     -   [SLP Ch. 3](https://stanford.edu/~jurafsky/slp3/3.pdf){target="_blank"}
     -   [SLP Ch. 4](https://stanford.edu/~jurafsky/slp3/4.pdf){target="_blank"}
 -   Class events: Assignment 2 goes out (due date: Tuesday, October 1)
--   Deadlines: Assignment 1 due
+-   Deadlines: Assignment 1 due  
 
 ### Friday, September 20
 -   Topics: Neural networks
