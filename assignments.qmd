@@ -2,7 +2,7 @@
 title: "Assignments"
 ---
 
-## Assignment 1 [Due Date: Friday, September 13 at 11:59pm ET]
+## Assignment 1 [Due Date: Tuesday, September 17 at 11:59pm ET]
 * [Problem 1](https://colab.research.google.com/drive/1dAadrLAjwGnm_QOTJGYfnhzmUW41Qrh3?usp=sharing){target="_blank"}
 * [Problem 2](https://colab.research.google.com/drive/1jmCaAjsk6wCjXLx8XlnayJVNaXRRAvvn?usp=sharing){target="_blank"}
 * [Problem 3](https://colab.research.google.com/drive/1h2C8kNWOKqYYf3wWj0-ZBT5y6oGxFTCr?usp=sharing){target="_blank"}
