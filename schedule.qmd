@@ -75,28 +75,45 @@ The schedule is subject to change – check back often!
 -   Class Slides: [Lecture 5](lectures/lecture5_20240910/lecture5_week3_F24.html){target="_blank"}
 
 ### Friday, September 13
--   Topics: Text classification
+-   Topic: Text classification
 -   Readings:
     -   ISLP Ch. 1
-    -   ISLP Ch. 4
 -   Class events: None
 -   Deadlines: None
 -   Class Slides: [Lecture 6](lectures/lecture6_20240913/lecture6_week3_F24.html){target="_blank"}
 -   Lab: [Lecture 6 Lab](https://colab.research.google.com/drive/1ot8BPuqWrdYjVayVKxrF_LyjY5-x-9Zt?usp=sharing){target="_blank"}
 
 ### Tuesday, September 17
--   Topics: Language models: naive Bayes, logistic regression, neural networks
+-   Topic: N-Gram Language Models - Naive Bayes
 -   Readings:
     -   [SLP Ch. 3](https://stanford.edu/~jurafsky/slp3/3.pdf){target="_blank"}
     -   [SLP Ch. 4](https://stanford.edu/~jurafsky/slp3/4.pdf){target="_blank"}
 -   Class events: Assignment 2 goes out (due date: Tuesday, October 1)
 -   Deadlines: Assignment 1 due  
+-   Class Slides: [Lecture 7](lectures/lecture7_20240917/lecture7_week4_F24.html){target="_blank"}
+-   Lab: [Lecture 7](https://colab.research.google.com/drive/1Gt5_xhsFuwEfUF9xciEhLC-nkebVk5B5?usp=sharing){target="_blank"}
 
 ### Friday, September 20
--   Topics: Neural networks
+-   Topic: N-Gram Language Models - Logistic Regression
+-   Readings:
+    -   ISLP Ch. 4
+-   Class events: None
+-   Deadlines: None
+
+### Tuesday, September 24
+-   Topic: Introduction to Neural Networks
 -   Readings:
     -   ISLP Ch. 10
-    -   [SLP Ch. 7](https://stanford.edu/~jurafsky/slp3/7.pdf){target="_blank"}
-    -   [DL Ch. 6](https://www.deeplearningbook.org/contents/mlp.html){target="_blank"}
--   Class events: none
--   Deadlines: none
+    -   [SLP Ch. 7](https://stanford.edu/~jurafsky/slp3/7.pdf)
+    -   [DL Ch. 6](https://www.deeplearningbook.org/contents/mlp.html)
+-   Class events: None
+-   Deadlines: None
+
+### Friday, September 27
+-   Topic: Word Embeddings
+-   Readings:
+    -   [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+    -   [Word2vec Tutorial - The Skip-Gram Model](https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+    -   [Word2vec Tutorial Part 2 - Negative Sampling](https://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+-   Class events: None
+-   Deadlines: None
