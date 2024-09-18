@@ -3,6 +3,7 @@ title: "Natural Language Processing and Text as Data"
 ---
 
 ## Announcements
+* [September 17] Assignment 2 has been released. It is due on Tuesday, October 1 at 11:59pm.
 * [September 12] I'm extending the deadline for Assignment 1. The new due date is **Tuesday, September 17 at 11:59pm**.
 * [August 27] The course survey can be found [here](https://american.co1.qualtrics.com/jfe/form/SV_9TVxBqHAH5hjKxo){target="_blank"}
 

@@ -2,6 +2,13 @@
 title: "Assignments"
 ---
 
+## Assignment 2 [Due Date: Tuesday, October 1 at 11:59pm ET]
+* [Problem 1](https://colab.research.google.com/drive/1pN_uG29ZPf-WE6e0O6o7K9_O1n-5jW4X?usp=sharing){target="_blank"}
+* [Problem 2](materials/A2_Problem2.pdf){target="_blank"}
+* [Problem 3](https://colab.research.google.com/drive/110Z-9Ylt4eWL5J0HZVk_dJfoRirHu_Ay?usp=sharing){target="_blank"}
+
+You will submit Problems 1 and 3 using the same approach as the last assignment. For Problem 2, follow the instructions in the PDF.
+
 ## Assignment 1 [Due Date: Tuesday, September 17 at 11:59pm ET]
 * [Problem 1](https://colab.research.google.com/drive/1dAadrLAjwGnm_QOTJGYfnhzmUW41Qrh3?usp=sharing){target="_blank"}
 * [Problem 2](https://colab.research.google.com/drive/1jmCaAjsk6wCjXLx8XlnayJVNaXRRAvvn?usp=sharing){target="_blank"}
