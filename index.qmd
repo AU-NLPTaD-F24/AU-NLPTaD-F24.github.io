@@ -33,7 +33,7 @@ title: "Natural Language Processing and Text as Data"
 
 -   **Instructor**: Patrick Wu
 
--   **Email**: pwu \[at\] american.edu
+-   **Email**: patrickwu \[at\] american.edu
 
 -   **Instructor's Office**: DMTI 108A
 
