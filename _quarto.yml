@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - href: schedule.qmd
-        text: Schedule
+        text: Schedule and Lecture Notes
       - href: officehours.qmd
         text: Office Hours
       - href: assignments.qmd
