@@ -91,7 +91,7 @@ The schedule is subject to change – check back often!
 -   Class events: Assignment 2 goes out (due date: Tuesday, October 1)
 -   Deadlines: Assignment 1 due  
 -   Class Slides: [Lecture 7](lectures/lecture7_20240917/lecture7_week4_F24.html){target="_blank"}
--   Lab: [Lecture 7](https://colab.research.google.com/drive/1Gt5_xhsFuwEfUF9xciEhLC-nkebVk5B5?usp=sharing){target="_blank"}
+-   Lab: [Lecture 7 Lab](https://colab.research.google.com/drive/1Gt5_xhsFuwEfUF9xciEhLC-nkebVk5B5?usp=sharing){target="_blank"}
 
 ### Friday, September 20
 -   Topic: N-Gram Language Models - Logistic Regression
@@ -99,6 +99,8 @@ The schedule is subject to change – check back often!
     -   ISLP Ch. 4
 -   Class events: None
 -   Deadlines: None
+-   Class slides: [Lecture 8](lectures/lecture8_20240920/lecture8_week4_F24.html){target="_blank"}
+-   Lab: [Lecure 8 Lab](https://colab.research.google.com/drive/1IY-nZ3RTpc_g-caI2Dtyc2GAFdFcppUl?usp=sharing){target="_blank"}
 
 ### Tuesday, September 24
 -   Topic: Introduction to Neural Networks
