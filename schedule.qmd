@@ -110,7 +110,7 @@ The schedule is subject to change – check back often!
     -   [DL Ch. 6](https://www.deeplearningbook.org/contents/mlp.html){target="_blank"}
 -   Class events: None
 -   Deadlines: None
--   Class Slides: [Lecture 9](lectures/lature9_20240924/lecture9_week5_F24.html){target="_blank"} 
+-   Class Slides: [Lecture 9](lectures/lecture9_20240924/lecture9_week5_F24.html){target="_blank"} 
 -   Lab: [Lecture 9 Lab](https://colab.research.google.com/drive/1G6K70S-DUKLMXlkdZshiJILnvUIpqv85?usp=sharing){target="_blank"}
 
 ### Friday, September 27
