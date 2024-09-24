@@ -99,23 +99,48 @@ The schedule is subject to change – check back often!
     -   ISLP Ch. 4
 -   Class events: None
 -   Deadlines: None
--   Class slides: [Lecture 8](lectures/lecture8_20240920/lecture8_week4_F24.html){target="_blank"}
+-   Class Slides: [Lecture 8](lectures/lecture8_20240920/lecture8_week4_F24.html){target="_blank"}
 -   Lab: [Lecure 8 Lab](https://colab.research.google.com/drive/1IY-nZ3RTpc_g-caI2Dtyc2GAFdFcppUl?usp=sharing){target="_blank"}
 
 ### Tuesday, September 24
 -   Topic: Introduction to Neural Networks
 -   Readings:
     -   ISLP Ch. 10
-    -   [SLP Ch. 7](https://stanford.edu/~jurafsky/slp3/7.pdf)
-    -   [DL Ch. 6](https://www.deeplearningbook.org/contents/mlp.html)
+    -   [SLP Ch. 7](https://stanford.edu/~jurafsky/slp3/7.pdf){target="_blank"}
+    -   [DL Ch. 6](https://www.deeplearningbook.org/contents/mlp.html){target="_blank"}
+-   Class events: None
+-   Deadlines: None
+-   Class Slides: [Lecture 9](lectures/lature9_20240924/lecture9_week5_F24.html){target="_blank"}
+-   Lab: [Lecture 9 Lab](https://colab.research.google.com/drive/1G6K70S-DUKLMXlkdZshiJILnvUIpqv85?usp=sharing){target="_blank"}
+
+### Friday, September 27
+-   Topic: Neural Networks and NLP
+-   Readings:
+    -   Video: ["But what is a neural network?"](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi){target="_blank"}
+    -   Video: ["Gradient descent, how neural networks learn"](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2){target="_blank"}
 -   Class events: None
 -   Deadlines: None
 
-### Friday, September 27
--   Topic: Word Embeddings
+### Tuesday, October 1
+-   Topic: Word Embeddings, Part I
 -   Readings:
     -   [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
     -   [Word2vec Tutorial - The Skip-Gram Model](https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
     -   [Word2vec Tutorial Part 2 - Negative Sampling](https://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 -   Class events: None
+-   Deadlines: Assignment 2 due
+
+### Friday, October 4
+-   Topic: Word Embeddings, Part II
+-   Readings:
+    -   [SLP Ch. 6](https://stanford.edu/~jurafsky/slp3/6.pdf){target="_blank"}
+-   Class events: Will have time to review topics before midterm
 -   Deadlines: None
+
+### Tuesday, October 8
+
+In-class Midterm
+
+### Friday, October 11
+
+No class - Fall Break
