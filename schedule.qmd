@@ -120,6 +120,7 @@ The schedule is subject to change – check back often!
     -   Video: ["Gradient descent, how neural networks learn"](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2){target="_blank"}
 -   Class events: None
 -   Deadlines: None
+-   Class Slides: [Lecture 10](lectures/lecture10_20240927/lecture10_week5_F24.html){target="_blank"}
 
 ### Tuesday, October 1
 -   Topic: Word Embeddings, Part I
