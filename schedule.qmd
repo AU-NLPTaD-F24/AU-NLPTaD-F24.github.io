@@ -132,10 +132,9 @@ The schedule is subject to change – check back often!
 -   Deadlines: Assignment 2 due
 
 ### Friday, October 4
--   Topic: Word Embeddings, Part II
--   Readings:
-    -   [SLP Ch. 6](https://stanford.edu/~jurafsky/slp3/6.pdf){target="_blank"}
--   Class events: Will have time to review topics before midterm
+-   Topic: Midterm Review
+-   Readings: None
+-   Class events: Midterm Review
 -   Deadlines: None
 
 ### Tuesday, October 8
