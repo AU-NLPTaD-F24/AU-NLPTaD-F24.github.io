@@ -130,6 +130,7 @@ The schedule is subject to change – check back often!
     -   [Word2vec Tutorial Part 2 - Negative Sampling](https://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 -   Class events: None
 -   Deadlines: Assignment 2 due
+-   Class Slides: [Lecture 11](lectures/lecture11_20241001/lecture11_week6_F24.html){target="_blank"}
 
 ### Friday, October 4
 -   Topic: Midterm Review
