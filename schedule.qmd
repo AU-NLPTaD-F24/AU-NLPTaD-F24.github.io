@@ -145,3 +145,19 @@ In-class Midterm
 ### Friday, October 11
 
 No class - Fall Break
+
+### Tuesday, October 15
+-   Topic: Word Embeddings, Part II
+-   Readings:
+-   Class events: Assignment 3 goes out
+-   Deadlines: None
+-   Class Slides: [Lecture 12](lectures/lecture12_20241015/lecture12_week8_F24.html){target="_blank"}
+-   Lab: [Lecture 12](https://colab.research.google.com/drive/1A3ViftZL73qiYBNafnfzdeXWpyBkoG6k?usp=sharing){target="_blank"}
+
+### Friday, October 18
+-   Topic: Recurrent Neural Networks
+-   Readings:
+    -   [SLP Ch. 8](https://stanford.edu/~jurafsky/slp3/8.pdf){target="_blank"}
+-   Class events: Final project instructions go out
+-   Deadlines: None
+-   Class Slides:
