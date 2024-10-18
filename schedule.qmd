@@ -160,4 +160,4 @@ No class - Fall Break
     -   [SLP Ch. 8](https://stanford.edu/~jurafsky/slp3/8.pdf){target="_blank"}
 -   Class events: Final project instructions go out
 -   Deadlines: None
--   Class Slides:
+-   Class Slides: [Lecture 13](lectures/lecture13_20241018/lecture13_week8_F24.html){target="_blank"}
