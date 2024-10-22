@@ -152,7 +152,7 @@ No class - Fall Break
 -   Class events: Assignment 3 goes out
 -   Deadlines: None
 -   Class Slides: [Lecture 12](lectures/lecture12_20241015/lecture12_week8_F24.html){target="_blank"}
--   Lab: [Lecture 12](https://colab.research.google.com/drive/1A3ViftZL73qiYBNafnfzdeXWpyBkoG6k?usp=sharing){target="_blank"}
+-   Lab: [Lecture 12 Lab](https://colab.research.google.com/drive/1A3ViftZL73qiYBNafnfzdeXWpyBkoG6k?usp=sharing){target="_blank"}
 
 ### Friday, October 18
 -   Topic: Recurrent Neural Networks
@@ -161,3 +161,69 @@ No class - Fall Break
 -   Class events: Final project instructions go out
 -   Deadlines: None
 -   Class Slides: [Lecture 13](lectures/lecture13_20241018/lecture13_week8_F24.pdf){target="_blank"}
+
+### Tuesday, October 22
+-   Topic: Recurrent Neural Networks, Encoder-Decoder Framework, and Attention
+-   Readings:
+    -   NLPT, Ch. 1
+-   Class events: None
+-   Deadlines: None
+-   Class Slides: [Lecture 14](lectures/lecture14_20241022/lecture14_week9_F24.pdf){target="_blank"}
+-   Lab: [Lecture 14 Lab](https://colab.research.google.com/drive/1mUtAaLZqL1XoTSSnXUxvqmfqeKxJHBaM?usp=sharing){target="_blank"}
+
+### Friday, October 25
+-   Topic: Transformers
+-   Readings:
+    -   NLPT, Ch. 3
+    -   [Hugging Face NLP Course, Ch. 1](https://huggingface.co/learn/nlp-course/chapter1/1){target="_blank"}
+-   Class events: None
+-   Deadlines: None
+
+### Tuesday, October 29
+-   Topic: Large Language Models
+-   Readings:
+    -   [Hugging Face NLP Course, Ch. 2](https://huggingface.co/learn/nlp-course/chapter2/1)
+    -   [SLP Ch. 10](https://stanford.edu/~jurafsky/slp3/10.pdf){target="_blank"}
+-   Class events: Assignment 4 goes out (due Tuesday, November 12)
+-   Deadlines: Assignment 3 due
+
+### Friday, November 1
+-   Topic: Using Hugging Face
+-   Readings:
+-   Class events: None
+-   Deadlines: None
+
+### Tuesday, November 5
+
+No class --- Election Day
+
+### Friday, November 8
+-   Topic: Prompt Engineering, Part I
+-   Readings:
+    -   [SLP Ch. 14](https://stanford.edu/~jurafsky/slp3/14.pdf)
+-   Class events: None
+-   Deadlines: Project proposal due
+
+### Tuesday, November 12
+-   Topic: Prompt Engineering, Part II
+-   Readings:
+    -   ["What is RAG (Retrieval-Augmented Generation)?"](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+-   Class events: Assignment 5 goes out (due Friday, November 22)
+-   Deadlines: Assignment 4 due
+
+### Friday, November 15
+-   Topic: Fine-tuning
+-   Readings:
+    -   [Hugging Face NLP Course, Ch. 3](https://huggingface.co/learn/nlp-course/chapter3/)
+-   Class events: None
+-   Deadlines: None
+
+### Tuesday, November 19
+
+### Friday, November 22
+
+### Tuesday, November 26
+-   Topic: Wrapping up the course --- meeting virtually
+-   Readings: None
+-   Class events: because of Thanksgiving Break, we will be meeting virtually
+-   Deadlines: None
