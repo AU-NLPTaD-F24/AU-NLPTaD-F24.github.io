@@ -178,6 +178,7 @@ No class - Fall Break
     -   [Hugging Face NLP Course, Ch. 1](https://huggingface.co/learn/nlp-course/chapter1/1){target="_blank"}
 -   Class events: None
 -   Deadlines: None
+-   Class Slides: [Lecture 15](lectures/lecture15_20241025/lecture15_week9_F24.pdf){target="_blank"}
 
 ### Tuesday, October 29
 -   Topic: Large Language Models
