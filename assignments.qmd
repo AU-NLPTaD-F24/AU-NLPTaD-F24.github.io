@@ -2,11 +2,11 @@
 title: "Assignments"
 ---
 
-## Assignment 4
+## Assignment 4 [Due Date: Tuesday, November 12 at 11:59pm ET]
 * [Problem 1](materials/A4_Problem1.pdf){target="_blank"}
 * [Problem 2](https://colab.research.google.com/drive/1N75L9in9BdnnsAdk_fPm7YLJyBkAShMD?usp=sharing){target="_blank"}
 
-## Assignment 3
+## Assignment 3 [Due Date: Tuesday, October 29 at 11:59pm ET]
 * [Problem 1](https://colab.research.google.com/drive/1rIxq0W_6l4AlJqSkx_TZhNQhsU3uiIg5?usp=sharing){target="_blank"}
 * [Problem 2](https://colab.research.google.com/drive/1oc56NUqE5dR32gu8ahtH_4gsVqdTGInB?usp=sharing){target="_blank"}
 
