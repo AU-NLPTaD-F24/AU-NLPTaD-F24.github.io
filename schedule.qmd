@@ -187,6 +187,7 @@ No class - Fall Break
     -   [SLP Ch. 10](https://stanford.edu/~jurafsky/slp3/10.pdf){target="_blank"}
 -   Class events: Assignment 4 goes out (due Tuesday, November 12)
 -   Deadlines: Assignment 3 due
+-   Class Slides: [Lecture 16](lectures/lecture16_20241029/lecture16_week10_F24.pdf){target="_blank"}
 
 ### Friday, November 1
 -   Topic: Using Hugging Face
