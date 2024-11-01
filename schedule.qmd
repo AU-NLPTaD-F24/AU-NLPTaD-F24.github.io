@@ -194,6 +194,8 @@ No class - Fall Break
 -   Readings:
 -   Class events: None
 -   Deadlines: None
+-   Class Slides: [Lecture 17](lectures/lecture17_20241101/lecture17_week10_F24.pdf){target="_blank"}
+-   Lab: [Lecture 17 Lab](https://colab.research.google.com/drive/1USvhTZcA-AWhomq3jGSxsu9c7x94wRVW?usp=sharing){target="_blank"}
 
 ### Tuesday, November 5
 
