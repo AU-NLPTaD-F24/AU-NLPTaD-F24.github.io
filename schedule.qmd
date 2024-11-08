@@ -207,6 +207,8 @@ No class --- Election Day
     -   [SLP Ch. 14](https://stanford.edu/~jurafsky/slp3/14.pdf)
 -   Class events: None
 -   Deadlines: Project proposal due
+-   Class Slides: [Lecture 18](lectures/lecture18_20241108/lecture18_week11_F24.pdf){target="_blank"}
+-   Lab: [Lecture 18 Lab](https://colab.research.google.com/drive/141_1Zx2Jm79oSg68PfYD0xYZVq9jTBB_?usp=sharing){target="_blank"}
 
 ### Tuesday, November 12
 -   Topic: Prompt Engineering, Part II
