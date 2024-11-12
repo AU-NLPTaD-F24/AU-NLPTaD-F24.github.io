@@ -216,6 +216,8 @@ No class --- Election Day
     -   ["What is RAG (Retrieval-Augmented Generation)?"](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 -   Class events: Assignment 5 goes out (due Friday, November 22)
 -   Deadlines: Assignment 4 due
+-   Class Slides: [Lecture 19](lectures/lecture19_20241112/lecture19_week12_F24.pdf){target="_blank"}
+-   Lab: [Lecture 19 Lab](https://colab.research.google.com/drive/1Qvi2vPxavNwWLM6vs9ayjfLIdmxjUbBv?usp=sharing){target="_blank"}
 
 ### Friday, November 15
 -   Topic: Fine-tuning
