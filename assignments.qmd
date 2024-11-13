@@ -2,6 +2,9 @@
 title: "Assignments"
 ---
 
+## Assignment 5 [Due Date: Friday, November 22 at 11:59pm ET]
+* [Problem 1](https://colab.research.google.com/drive/19zj9EiVaizyN3G4jQh-KhMcPG8y93-on?usp=sharing){target="_blank"}
+
 ## Assignment 4 [Due Date: Tuesday, November 12 at 11:59pm ET]
 * [Problem 1](materials/A4_Problem1.pdf){target="_blank"}
 * [Problem 2](https://colab.research.google.com/drive/1N75L9in9BdnnsAdk_fPm7YLJyBkAShMD?usp=sharing){target="_blank"}
