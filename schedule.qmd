@@ -223,7 +223,8 @@ No class --- Election Day
 -   Topic: Fine-tuning
 -   Readings:
     -   [Hugging Face NLP Course, Ch. 3](https://huggingface.co/learn/nlp-course/chapter3/)
--   Class events: None
+-   Class events: [Lecture 20](lectures/lecture20_20241115/lecture20_week12_F24.pdf){target="_blank"}
+-   Lab: [Lecture 20 Lab](https://colab.research.google.com/drive/1ldNbrEtuwqiEvTCGoXv-hafOFwL_DrLm?usp=sharing)
 -   Deadlines: None
 
 ### Tuesday, November 19
@@ -231,7 +232,7 @@ No class --- Election Day
 ### Friday, November 22
 
 ### Tuesday, November 26
--   Topic: Wrapping up the course --- meeting virtually
+-   Topic: Wrapping up the course --- recorded lecture
 -   Readings: None
--   Class events: because of Thanksgiving Break, we will be meeting virtually
--   Deadlines: None
+-   Class events: because of Thanksgiving Break, this lecture will be recorded
+-   Deadlines: Assignment 5 due
