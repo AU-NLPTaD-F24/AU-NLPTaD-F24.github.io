@@ -223,11 +223,13 @@ No class --- Election Day
 -   Topic: Fine-tuning
 -   Readings:
     -   [Hugging Face NLP Course, Ch. 3](https://huggingface.co/learn/nlp-course/chapter3/)
--   Class events: [Lecture 20](lectures/lecture20_20241115/lecture20_week12_F24.pdf){target="_blank"}
+-   Class Slides: [Lecture 20](lectures/lecture20_20241115/lecture20_week12_F24.pdf){target="_blank"}
 -   Lab: [Lecture 20 Lab](https://colab.research.google.com/drive/1ldNbrEtuwqiEvTCGoXv-hafOFwL_DrLm?usp=sharing)
 -   Deadlines: None
 
 ### Tuesday, November 19
+-   Class Slides: [Lecture 21](lectures/lecture21_20241119/lecture21_week13_F24.pdf){target="_blank"}
+-   Lab: [Lecture 21 Lab](https://colab.research.google.com/drive/1ipqNAXfxqnKiktKBdSOVKMg0_LyHqasK?usp=sharing){target="_blank"}, [Lecture 21 OpenAI Lab](https://colab.research.google.com/drive/1eIgKq-0rWmqFHekwWuZwJ7EVu1SKtUsj?usp=sharing){target="_blank"}
 
 ### Friday, November 22
 
