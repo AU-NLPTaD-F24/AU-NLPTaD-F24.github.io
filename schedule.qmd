@@ -232,6 +232,7 @@ No class --- Election Day
 -   Lab: [Lecture 21 Lab](https://colab.research.google.com/drive/1ipqNAXfxqnKiktKBdSOVKMg0_LyHqasK?usp=sharing){target="_blank"}, [Lecture 21 OpenAI Lab](https://colab.research.google.com/drive/1eIgKq-0rWmqFHekwWuZwJ7EVu1SKtUsj?usp=sharing){target="_blank"}
 
 ### Friday, November 22
+-   Class Slides: [Lecture 22](lectures/lecture22_20241122/lecture22_week13_F24.pdf){target="_blank"}
 
 ### Tuesday, November 26
 -   Topic: Wrapping up the course --- recorded lecture
