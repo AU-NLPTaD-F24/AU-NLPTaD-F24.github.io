@@ -239,3 +239,6 @@ No class --- Election Day
 -   Readings: None
 -   Class events: because of Thanksgiving Break, this lecture will be recorded
 -   Deadlines: Assignment 5 due
+
+### Tuesday, December 3
+-   Class Slides: ["Lecture" 23](lectures/lecture23_20241203/lecture23_week15_F24.pdf){target="_blank"}
