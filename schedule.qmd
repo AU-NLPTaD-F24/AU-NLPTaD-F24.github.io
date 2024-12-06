@@ -242,3 +242,6 @@ No class --- Election Day
 
 ### Tuesday, December 3
 -   Class Slides: ["Lecture" 23](lectures/lecture23_20241203/lecture23_week15_F24.pdf){target="_blank"}
+
+### Friday, December 6
+-   Class Slides: [Lecture 24](lectures/lecture24_20241206/lecture24_week15_F24.pdf){target="_blank"}
